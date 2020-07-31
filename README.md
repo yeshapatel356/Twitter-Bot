@@ -1,5 +1,5 @@
 # Twitter-Bot
-A Twitter-bot is a program that integrates with the Twitter platform automatically replying to tweets. It created using Python script and Tweepy library.
+A Twitter-bot is a program that integrates with the Twitter platform automatically by replying to tweets. It created using Python script and Tweepy library.
 
 # Set Up
 1. To use Twitter bot,you need to have Python 3 installed on your system.
