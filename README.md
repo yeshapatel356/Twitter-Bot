@@ -4,7 +4,7 @@ A Twitter-bot is a program that integrates with the Twitter platform automatical
 # Set Up
 1. To use Twitter bot,you need to have Python 3 installed on your system.
 2. This bot uses tweepy module.You can install tweepy by using pip. To install tweepy, use this command :
-```python
+```cmd
  pip install tweepy
  ```
 ```python
